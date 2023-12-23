@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sashakashytskyy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qv2xCdKFsPwy1t9Oj7FNsc94OR0ergO3/view?usp=sharing](https://drive.google.com/file/d/1qv2xCdKFsPwy1t9Oj7FNsc94OR0ergO3/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qv2xCdKFsPwy1t9Oj7FNsc94OR0ergO3/view?usp=sharing](https://drive.google.com/file/d/1U3xwUHxzGuDdoTVaGn-98XikE2XSqGqf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
