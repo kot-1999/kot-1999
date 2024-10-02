@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sashakashytskyy@gmail.com**
 
-- 📄 Know about my experiences [[[Google Drive](https://drive.google.com/file/d/1cdJirKWyI_WiPEan3xbf5NN4RvSi8COu/view?usp=sharing)]([Google drive))]
+- 📄 Know about my experiences [[[Google Drive](https://drive.google.com/file/d/1cdJirKWyI_WiPEan3xbf5NN4RvSi8COu/view?usp=sharing)]([Google drive])]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
