@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleksandr</h1>
 <h3 align="center">Backend developer from Ukraine in GoodRequest s.r.o.</h3>
 
-- 🔭 I’m currently working on **Aivodot, Notino**
-
-- 🌱 I’m currently learning **AWS, databases**
+- 🌱 I’m currently learning **AWS, Nest.js**
 
 - 📫 How to reach me **sashakashytskyy@gmail.com**
 
