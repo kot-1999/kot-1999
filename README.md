@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oleksandr</h1>
-<h3 align="center">Backend developer from Ukraine in GoodRequest s.r.o.</h3>
+<h1 align="center">Hi 👋, I'm Alex</h1>
+<h3 align="center">Backend developer from Ukraine</h3>
 
 - 🌱 I’m currently learning **AWS, Nest.js**
 
