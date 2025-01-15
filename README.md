@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Backend developer from Ukraine</h3>
+<h3 align="center">Backend developer | Software Developer | Database Architect</h3>
 
-- 🌱 I’m currently learning **AWS, Nest.js**
+- 🌱 Currently reading: **Design Data-Intesive Applicatoons by Martin Kleppmann**
 
 - 📫 How to reach me **sashakashytskyy@gmail.com**
 
