@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sashakashytskyy@gmail.com**
 
-- 📄 Know about my experiences [Google Drive](https://drive.google.com/file/d/1UBQzUEXIlCGv2BKCGIMhT0eMGq0WG5oP/view?usp=sharing)
+- 📄 Know about my experiences [Google Docs](https://docs.google.com/document/d/148LsJTY6XhArjKdspKBAN7HRUcAnM5xINg0vs_fAk0o/edit?usp=sharing)
 
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/oleksandr-kashytskyi-07974b22b/">LinkedIn</a></h3>
 
