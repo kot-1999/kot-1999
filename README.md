@@ -7,6 +7,39 @@
 
 - 📄 Know about my experiences [Google Docs](https://docs.google.com/document/d/148LsJTY6XhArjKdspKBAN7HRUcAnM5xINg0vs_fAk0o/edit?usp=sharing)
 
+<h3 align="left">📚 Personal Library</h3>
+
+<h5 align="left">Programming & Software Development:</h5>
+- **The C Programming Language** – B. Kernighan
+- **The C++ Programming Language** – B. Stroustrup
+- **Java, A Beginner's Guide** – G. Shildt
+- **Effective Java** – J. Bloch
+- **The Complete Reference C# 4.0** – G. Shildt
+- **Java Script** – D. Dakett
+- **HTML & CSS** – D. Dakett
+- **Node.js Web Development** – D. Herron
+- **Git Magic** – B. Lynn
+- **Grokking Algorithms** – A. Bhargava
+
+<h5 align="left">AI, Machine Learning & Data Science:</h5>
+- **Deep Reinforcement Learning with Python** – S. Ravichandiran
+- **Python Machine Learning** – S. Raschka
+- **Hands-On AI with Gym** – P. Palanisamy
+
+<h5 align="left">Databases & Backend Development:</h5>
+- **Designing Data-Intensive Applications** – M. Kleppmann 
+- **Postgres** – P. Luzanov
+- **SQL Antipatterns** – B. Karwin
+
+<h5 align="left">System Design & Architecture:</h5>
+- **Design Patterns. Elements of Reusable Object-Oriented Software** – E. Gamma
+
+<h5 align="left">Embedded Systems:</h5>
+- **Microcontrollers Programming (Arduino)** – (Unknown Author)
+
+<h5 align="left">Operating Systems:</h5>
+- **Modern Operating Systems** – E. Tanenbaum
+
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/oleksandr-kashytskyi-07974b22b/">LinkedIn</a></h3>
 
 <h3 align="left">Languages and Tools:</h3>
