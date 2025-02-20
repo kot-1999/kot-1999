@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **sashakashytskyy@gmail.com**
 
+- 📝 Publications [Dev.to](https://dev.to/oleksandr_kashytskyi_a630)
+
 - 📄 Know about my experiences [Google Docs](https://docs.google.com/document/d/148LsJTY6XhArjKdspKBAN7HRUcAnM5xINg0vs_fAk0o/edit?usp=sharing)
 
 <h3 align="left">🔗 Connect with me: <a href="https://www.linkedin.com/in/oleksandr-kashytskyi-07974b22b/">LinkedIn</a></h3>
