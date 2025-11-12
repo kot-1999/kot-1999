@@ -14,7 +14,7 @@
 
 <h3 align="left">📚 Personal Library</h3>
 
-<h5 align="left">Programming & Software Development:</h5>
+<h5 align="left">Programming Languages:</h5>
 
 - **The C Programming Language** – B. Kernighan
 - **The C++ Programming Language** – B. Stroustrup
@@ -24,8 +24,13 @@
 - **Java Script** – D. Dakett
 - **HTML & CSS** – D. Dakett
 - **Node.js Web Development** – D. Herron
+
+<h5 align="left">Software Development:</h5>
+
 - **Git Magic** – B. Lynn
 - **Grokking Algorithms** – A. Bhargava
+- **Design Patterns. Elements of Reusable Object-Oriented Software** – E. Gamma
+
 
 <h5 align="left">AI, Machine Learning & Data Science:</h5>
 
@@ -39,13 +44,9 @@
 - **Postgres** – P. Luzanov
 - **SQL Antipatterns** – B. Karwin
 
-<h5 align="left">System Design & Architecture:</h5>
-
-- **Design Patterns. Elements of Reusable Object-Oriented Software** – E. Gamma
-
 <h5 align="left">Embedded Systems:</h5>
 
-- **Microcontrollers Programming (Arduino)** – (Unknown Author)
+- **Microcontrollers Programming (Arduino)** – Ulli Sommer 
 
 <h5 align="left">Operating Systems:</h5>
 
