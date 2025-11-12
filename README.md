@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Backend developer | Software Developer | Database Architect</h3>
 
-- 🌱 Currently reading: **Design Data-Intesive Applicatoons by Martin Kleppmann**
-
 - 📫 How to reach me **sashakashytskyy@gmail.com**
 
 - 📝 Publications [Dev.to](https://dev.to/oleksandr_kashytskyi_a630)
