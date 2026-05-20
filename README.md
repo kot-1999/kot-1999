@@ -1,7 +1,8 @@
 
 <!-- Animated Header -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=64&pause=9999999&color=099999&center=true&vCenter=true&width=900&lines=OLEKSANDR+KASHYTSKYI" /></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=9999999&color=099999&center=true&vCenter=true&width=900&lines=OLEKSANDR+KASHYTSKYI" />
+</p>
 
 <!-- Typing Animation -->
 <p align="center">
