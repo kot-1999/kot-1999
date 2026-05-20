@@ -16,12 +16,12 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://github.com/kot-1999">
-    <img src="https://img.shields.io/badge/GitHub-kot--1999-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="https://dev.to/oleksandr_kashytskyi_a630">
+  <img src="https://img.shields.io/badge/DEV.to-Articles-0A0A0A?style=for-the-badge&logo=dev.to" />
+</a>
   <a href="mailto:sashakashytskyy@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
   </a>
