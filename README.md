@@ -101,7 +101,7 @@ I am a Backend Developer with **3+ years of production experience** building sca
 
 <p align="center">
   <a href="mailto:sashakashytskyy@gmail.com">📧 Email</a> •
-  <a href="https://github.com/kot-1999">💻 GitHub</a> •
+  <a href="https://dev.to/oleksandr_kashytskyi_a630">📝 DevTo</a> •
   <a href="https://www.linkedin.com/">💼 LinkedIn</a> •
   <a href="https://kot-1999.github.io/PersonalPortfolio/index.html">🌐 Portfolio</a>
 </p>
@@ -112,12 +112,5 @@ I am a Backend Developer with **3+ years of production experience** building sca
   <img
     src="https://komarev.com/ghpvc/?username=kot-1999&style=for-the-badge&color=0e75b6"
     alt="Profile views"
-  />
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1E3A8A,100:0F172A&height=120&section=footer"
   />
 </p>
