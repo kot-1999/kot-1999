@@ -1,7 +1,7 @@
 
 <!-- Animated Header -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=9999999&color=099999&center=true&vCenter=true&width=900&lines=OLEKSANDR+KASHYTSKYI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=0999999&color=099999&center=true&vCenter=true&width=900&lines=OLEKSANDR+KASHYTSKYI" />
 </p>
 
 <!-- Typing Animation -->
@@ -16,7 +16,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/oleksandr-kashytskyi-07974b22b/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://dev.to/oleksandr_kashytskyi_a630">
