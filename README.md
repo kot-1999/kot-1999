@@ -16,7 +16,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/oleksandr-kashytskyi-07974b22b/)">
+  <a href="https://www.linkedin.com/in/oleksandr-kashytskyi-07974b22b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://dev.to/oleksandr_kashytskyi_a630">
@@ -100,7 +100,7 @@ I am a Backend Developer with **3+ years of production experience** building sca
 <p align="center">
   <a href="mailto:sashakashytskyy@gmail.com">📧 Email</a> •
   <a href="https://dev.to/oleksandr_kashytskyi_a630">📝 DevTo</a> •
-  <a href="https://www.linkedin.com/">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/oleksandr-kashytskyi-07974b22b">💼 LinkedIn</a> •
   <a href="https://kot-1999.github.io/PersonalPortfolio/index.html">🌐 Portfolio</a>
 </p>
 
