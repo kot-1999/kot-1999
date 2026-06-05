@@ -57,13 +57,13 @@ I am a Backend Developer with **3+ years of production experience** building sca
     <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
----
+<!-- ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=kot-1999&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
