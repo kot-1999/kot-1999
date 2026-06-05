@@ -62,7 +62,7 @@ I am a Backend Developer with **3+ years of production experience** building sca
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kot-1999&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=kot-1999&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
