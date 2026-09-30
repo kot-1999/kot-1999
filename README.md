@@ -15,7 +15,7 @@ alt="Typing SVG"
 
 <!-- Social Links -->
 <p align="center">
-<a href="https://kot-1999.github.io/PersonalPortfolio/index.html">
+<a href="https://kot-1999.github.io/PersonalPortfolioNext">
 <img src="https://img.shields.io/badge/Portfolio-Visit-14B8A6?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/oleksandr-kashytskyi-07974b22b">
@@ -72,7 +72,7 @@ Backend engineer with **3+ years of commercial experience** building scalable **
 | 🍸 [**BarThunder**](https://github.com/kot-1999/BarThunder) | Cocktail discovery and bar management app | React, Next.js, Ant Design, Docker |
 | 📘 [**express-joi-to-swagger**](https://github.com/kot-1999/express-joi-to-swagger) | Generates Swagger API docs straight from source code | Express, Joi, Swagger |
 
-More on my [portfolio](https://kot-1999.github.io/PersonalPortfolio/index.html).
+More on my [portfolio](https://kot-1999.github.io/PersonalPortfolioNext).
 
 ---
 
@@ -147,7 +147,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=kot-1999&the
 <a href="mailto:sashakashytskyy@gmail.com">📧 Email</a> •
 <a href="https://dev.to/oleksandr_kashytskyi_a630">📝 DevTo</a> •
 <a href="https://www.linkedin.com/in/oleksandr-kashytskyi-07974b22b">💼 LinkedIn</a> •
-<a href="https://kot-1999.github.io/PersonalPortfolio/index.html">🌐 Portfolio</a>
+<a href="https://kot-1999.github.io/PersonalPortfolioNext">🌐 Portfolio</a>
 </p>
 
 ---
