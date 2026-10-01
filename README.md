@@ -63,19 +63,6 @@ Backend engineer with **3+ years of commercial experience** building scalable **
 
 ---
 
-## 🧩 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🌸 **Flowers Shop** — [BE](https://github.com/kot-1999/flowers_shop_be) · [FE](https://github.com/kot-1999/flowers_shop_fe) | Multilingual e-commerce platform for a family business, with payments, shipping and an AI assistant | Node.js, TypeScript, PostgreSQL, Prisma, Redis, Docker, Stripe, Shippo, Google OAuth, AWS S3, Ollama |
-| 🍽️ **Restaurant Booking** — [BE](https://github.com/kot-1999/RestB_BE) · [FE](https://github.com/kot-1999/RestB_FE) | B2C/B2B booking system with role-based access control | Node.js, Redis sessions & caching |
-| 🍸 [**BarThunder**](https://github.com/kot-1999/BarThunder) | Cocktail discovery and bar management app | React, Next.js, Ant Design, Docker |
-| 📘 [**express-joi-to-swagger**](https://github.com/kot-1999/express-joi-to-swagger) | Generates Swagger API docs straight from source code | Express, Joi, Swagger |
-
-More on my [portfolio](https://kot-1999.github.io/PersonalPortfolioNext).
-
----
-
 ## 🛠️ Tech Stack
 
 **Backend**
