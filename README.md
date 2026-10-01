@@ -1,3 +1,11 @@
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+<img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+</p>
+
 <!-- Animated Header -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=0999999&color=099999&center=true&vCenter=true&width=900&lines=OLEKSANDR+KASHYTSKYI" />
@@ -90,24 +98,6 @@ Backend engineer with **3+ years of commercial experience** building scalable **
 </p>
 
 <sub>Plus: JWT · OAuth 2.0 · Swagger/OpenAPI · Joi · Sentry · Winston · Mocha · Chai · Supertest · JMeter · Stripe · Shippo · Ollama · AWS EC2 / S3 / RDS / SES / CloudWatch · SOLID · Clean Architecture · Agile/Scrum</sub>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=kot-1999&theme=tokyo-night&hide_border=true"
-/>
-</p>
-
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-<img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-</p>
 
 ---
 
