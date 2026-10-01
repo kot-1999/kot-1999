@@ -4,13 +4,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=0999999&color=099999&center=true&vCenter=true&width=900&lines=OLEKSANDR+KASHYTSKYI" />
 </p>
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-<img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-</p>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -20,6 +13,14 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&col
 alt="Typing SVG"
 />
 </a>
+</p>
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+<img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 </p>
 
 <!-- Social Links -->
